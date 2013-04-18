@@ -1,10 +1,10 @@
 {
   "name": "azinc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple Async Handling Library",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
     "control"
   ],
   "author": "Eugene Ware",
-  "license": "BSD"
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  }
 }
