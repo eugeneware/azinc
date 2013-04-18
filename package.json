@@ -1,0 +1,21 @@
+{
+  "name": "azinc",
+  "version": "0.0.1",
+  "description": "Simple Async Handling Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nharbour/azinc.git#master"
+  },
+  "keywords": [
+    "async",
+    "asynchronous",
+    "flow",
+    "control"
+  ],
+  "author": "Eugene Ware",
+  "license": "BSD"
+}
