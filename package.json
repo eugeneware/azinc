@@ -1,6 +1,6 @@
 {
   "name": "azinc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple Async Handling Library",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nharbour/azinc.git#master"
+    "url": "git://github.com/eugeneware/azinc.git#master"
   },
   "keywords": [
     "async",
